@@ -1,0 +1,1 @@
+Wtyczka do aplikacji bona-fide
