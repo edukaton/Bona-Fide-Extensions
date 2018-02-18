@@ -1,5 +1,7 @@
 # Wtyczka do aplikacji bona-fide
 
+![Alt text](https://fakealert.000webhostapp.com/extension.png "Wtyczka:Chrome")
+
 # Tutorial
 Load the extension
 
