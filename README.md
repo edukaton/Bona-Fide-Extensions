@@ -1,6 +1,6 @@
-#Wtyczka do aplikacji bona-fide
+# Wtyczka do aplikacji bona-fide
 
-#Tutorial
+# Tutorial
 Load the extension
 
 Extensions that you download from the Chrome Web Store are packaged up as .crx files, which is great for distribution, but not so great for development. Recognizing this, Chrome gives you a quick way of loading up your working directory for testing. Let's do that now.
