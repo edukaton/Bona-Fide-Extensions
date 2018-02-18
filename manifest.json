@@ -1,0 +1,21 @@
+{
+
+  "name": "Zgłaszaj zagrożenia w sieci.",
+  "version": "0.0.1",
+  "manifest_version": 2,
+
+  "description": "Pomagaj znajdować niebezpieczne miejsca w sieci oraz wspierać aplikację do nauki dzieci obrony przed manipulacją w internecie.",
+  "icons": {
+    "128": "fn.png"
+  },
+
+  "browser_action": {
+    "default_title": "Pomagaj znajdować niebezpieczne miejsca w sieci oraz wspierać aplikację do nauki dzieci obrony przed manipulacją w internecie.",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "http://*/*", "https://*/*", "http://httpstat.us/200"
+  ]
+
+}
